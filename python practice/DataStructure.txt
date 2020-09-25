@@ -1,0 +1,3 @@
+Data Structure in python..
+
+list is defined by square bracket[]
